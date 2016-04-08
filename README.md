@@ -23,3 +23,6 @@ dependencies {
 }
 ```
 
+我的博客上有介绍一些用法
+
+[传送门](http://www.cnblogs.com/lhyz/p/4496968.html)
