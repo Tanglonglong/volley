@@ -19,7 +19,7 @@ Step 2. Add the dependency
 
 ```
 dependencies {
-        compile 'com.github.wylhyz:volley:v0.1'
+        compile 'com.github.wylhyz:volley:v1.0'
 }
 ```
 
